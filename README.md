@@ -4,6 +4,7 @@
 - 💞️ 我很想出国深造，希望能在github找到志同道合的朋友
 - 📫 我的联系方式：
 - discord:s酱#5929
+- 现在正在学习：cs50ai
 
 <!---
 scommune/scommune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
