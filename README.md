@@ -8,8 +8,8 @@
   -   mail: scatyf3@gmail.com
 - 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=scatyf3)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatyf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 scommune/scommune is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
