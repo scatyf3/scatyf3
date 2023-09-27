@@ -8,7 +8,8 @@
   -   mail: scatyf3@gmail.com
 - 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
 
-![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true)
+![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true&theme=synthwave)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatyf3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
