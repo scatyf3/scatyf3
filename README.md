@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=470&height=98&lines=Across+the+Great+Wall+;we+can+reach+every+corner+in+the+world)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @scatyf3
 - 👀 我在中国大陆，北京师范大学，计算机科学与技术专业读书
 - 🌱 开始学习计算机一年了，我继续根据[CS自学指南](https://csdiy.wiki/)的指导教育自己
