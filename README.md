@@ -10,7 +10,7 @@
 
 ![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatyf3&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scatyf3&layout=compact&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats&hide=javascript,html,css)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=scatyf3&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
