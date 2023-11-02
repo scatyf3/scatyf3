@@ -7,6 +7,7 @@
   -   discord:scat_114
   -   mail: scatyf3@gmail.com
 - 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
+- [一篇自我勉励AND警醒的文章](https://www.zhihu.com/question/595969891/answer/3060352057)
 
 ![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true&theme=synthwave)
 
