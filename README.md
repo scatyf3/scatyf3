@@ -6,8 +6,10 @@
 - 📫 我的联系方式：
   -   discord:scat_114
   -   mail: scatyf3@gmail.com
-- 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
-- [一篇自我勉励AND警醒的文章](https://www.zhihu.com/question/595969891/answer/3060352057)
+- 🌟 我对system和hpc有朴素的兴趣，但是仅仅是刚刚了解，我希望在system和ai的交叉点发展自己未来的学术和职业道路
+- 🤔 关于我是谁，我秉持着什么样的价值观
+  - 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
+  - [一篇自我勉励AND警醒的文章](https://www.zhihu.com/question/595969891/answer/3060352057)
 
 ![scat's GitHub stats](https://github-readme-stats.vercel.app/api?username=scatyf3&count_private=true&theme=synthwave)
 
