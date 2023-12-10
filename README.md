@@ -4,6 +4,7 @@
 - 👋 Hi, I’m @scatyf3
 - 👀 我在中国大陆，北京师范大学，计算机科学与技术专业读书
 - 🌱 开始学习计算机一年了，我继续根据[CS自学指南](https://csdiy.wiki/)的指导教育自己
+  - [“学吧，学无止境！” ](https://www.acm.org/binaries/content/assets/education/cs2013_chinese.pdf)
 - 💞️ 我很想出国深造，希望能在github找到志同道合的朋友
 - 📫 我的联系方式：
   -   discord:scat_114
