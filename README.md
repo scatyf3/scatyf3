@@ -3,7 +3,8 @@
 
 - 👋 Hi, I’m @scatyf3
 - 👀 我在中国大陆，北京师范大学，计算机科学与技术专业读书
-- 🌱 开始学习计算机一年了，我继续根据[CS自学指南](https://csdiy.wiki/)的指导教育自己
+- 🌱 转码两年了，大抵可以宣称自己走入了「计算机科学」的大门 🥺
+  - 我继续根据[CS自学指南](https://csdiy.wiki/)的指导教育自己 
   - [“学吧，学无止境！” ](https://www.acm.org/binaries/content/assets/education/cs2013_chinese.pdf)
 - 💞️ 我很想出国深造，希望能在github找到志同道合的朋友
 - 📫 我的联系方式：
@@ -15,13 +16,13 @@
   - [一篇自我勉励AND警醒的文章](https://www.zhihu.com/question/595969891/answer/3060352057)
  
 # 关于我的技术栈
-- 文档: ![Static Badge](https://img.shields.io/badge/markdown-gray),![Static Badge](https://img.shields.io/badge/latex-gray)
-- 工作环境: ![Static Badge](https://img.shields.io/badge/VS%20Code-blue),![Static Badge](https://img.shields.io/badge/zsh-black)
+- 文档: ![Static Badge](https://img.shields.io/badge/markdown-gray),![Static Badge](https://img.shields.io/badge/latex-gray),![Static Badge](https://img.shields.io/badge/marp-blue)
+- 信息流：obsidian([lifeOS](https://github.com/quanru/obsidian-example-lifeos)), anki, cubox, flomo, marginnote
 - 环境和基本技能: linux, makefile, cmake, 正则表达式
 - 编程语言和开发框架://仍待美化
   - 课程学过: c,python,java,c++,scheme
-  - 为了好玩，在[exercism](https://exercism.org/dashboard)里了解过: C#, Elixir
-  - 正在从事: gin/golang, mongodb后端开发
+  - 开发过项目：golang, rust
+- 高性能计算套餐：OpenMP, MPI, CUDA 
 - 杂物: 基本的搜索引擎检索技巧, 可以思考和尝试ctf入门题
 
 
