@@ -26,7 +26,13 @@
 - 杂物: 基本的搜索引擎检索技巧, 可以思考和尝试ctf入门题
 
 # 赛博SCAT🐱
-- [我关注的社媒文章](https://www.notion.so/6379b986d4964818b078b0328b41f73b?v=19fc0e6483ec4fada09d6c68f7b20732)
+
+## 我关注的社媒文章
+[我关注的社媒文章](https://www.notion.so/6379b986d4964818b078b0328b41f73b?v=19fc0e6483ec4fada09d6c68f7b20732)
+
+## 工作时长
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 # 更多有趣的事实 
