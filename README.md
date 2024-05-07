@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=470&height=98&lines=Across+the+Great+Wall+;we+can+reach+every+corner+in+the+world)](https://git.io/typing-svg)
-# 基本信息
 
+# 基本信息
 - 👋 Hi, I’m @scatyf3
 - 👀 我在中国大陆，北京师范大学，计算机科学与技术专业读书
 - 🌱 转码两年了，大抵可以宣称自己走入了「计算机科学」的大门 🥺
@@ -15,7 +15,7 @@
   - 我的[个人博客](https://scatyfs-blog.gitbook.io/scats-blog)
   - [一篇自我勉励AND警醒的文章](https://www.zhihu.com/question/595969891/answer/3060352057)
  
-# 关于我的技术栈
+# 关于我的技术栈🔧
 - 文档: ![Static Badge](https://img.shields.io/badge/markdown-gray),![Static Badge](https://img.shields.io/badge/latex-gray),![Static Badge](https://img.shields.io/badge/marp-blue)
 - 信息流：obsidian([lifeOS](https://github.com/quanru/obsidian-example-lifeos)), anki, cubox, flomo, marginnote
 - 环境和基本技能: linux, makefile, cmake, 正则表达式
@@ -24,6 +24,9 @@
   - 开发过项目：golang, rust
 - 高性能计算套餐：OpenMP, MPI, CUDA 
 - 杂物: 基本的搜索引擎检索技巧, 可以思考和尝试ctf入门题
+
+# 赛博SCAT🐱
+- [我关注的社媒文章](https://www.notion.so/6379b986d4964818b078b0328b41f73b?v=19fc0e6483ec4fada09d6c68f7b20732)
 
 
 # 更多有趣的事实 
