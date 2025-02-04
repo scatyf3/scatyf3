@@ -31,15 +31,13 @@
 
 ## 工作时长
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 3.9 MB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -74,17 +72,16 @@ Sunday                   275 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 10 hrs 34 mins      █████████████████████████   100.00 % 
+Markdown                 9 hrs 22 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Obsidian                 10 hrs 34 mins      █████████████████████████   100.00 % 
+Obsidian                 9 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SCAT's HOME              10 hrs 34 mins      █████████████████████████   100.00 % 
+SCAT's HOME              9 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      8 hrs 41 mins       █████████████████████░░░░   82.16 % 
-Windows                  1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Mac                      9 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Jupyter Notebook** 
@@ -100,7 +97,7 @@ JavaScript               3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/02/2025 18:44:16 UTC
+ Last Updated on 04/02/2025 18:45:47 UTC
 <!--END_SECTION:waka-->
 
 
