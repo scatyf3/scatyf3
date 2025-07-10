@@ -5,28 +5,7 @@
 - 👀 My research interests are in LLM/MLSYS/HPC
 - 🌈 Friendly to the underrepresent group
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Opportunities</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
-        .highlight {
-            color: purple; /* Changed to purple */
-            font-size: 24px;
-            font-weight: bold;
-        }
-    </style>
-</head>
-<body>
-    <p> <span class="highlight">I am looking for internship opportunities in summer 2026 and PhD positions in fall 2027.</span></p>
-</body>
-</html>
+<span style="color: purple;font-size: 24px;font-weight: bold;">I am looking for internship opportunities in summer 2026 and PhD positions in fall 2027.</span>
 
 
 ## Tool stack
