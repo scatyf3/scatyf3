@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @scatyf3
 - 🎓 BSCS@BNU, Research Intern@SIT, incoming MSCE@NYU
 - 👀 My research interests are in LLM/MLSYS/HPC
-- 🌈 Friendly to the underrepresent group
+- 🌈 Friendly to the underrepresented group
 
 <svg width="1200" height="100">
     <text x="10" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="purple">
