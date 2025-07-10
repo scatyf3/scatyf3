@@ -5,8 +5,14 @@
 - 👀 My research interests are in LLM/MLSYS/HPC
 - 🌈 Friendly to the underrepresent group
 
-<span style="color: purple;font-size: 24px;font-weight: bold;">I am looking for internship opportunities in summer 2026 and PhD positions in fall 2027.</span>
-
+<svg width="1200" height="100">
+    <text x="10" y="40" font-family="Arial" font-size="24" font-weight="bold" fill="purple">
+        I am looking for internship opportunities in summer 2026
+    </text>
+    <text x="10" y="80" font-family="Arial" font-size="24" font-weight="bold" fill="purple">
+        and PhD positions in fall 2027.
+    </text>
+</svg>
 
 ## Tool stack
 - coding tools: 
