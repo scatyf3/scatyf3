@@ -21,6 +21,7 @@
 ![learning/writing tools](https://go-skill-icons.vercel.app/api/icons?i=markdown,obsidian,latex,overleaf,arcbrowser,discord,github,huggingface,chatgpt,deepseek&theme=light)
 
 - mindset: [Articles that shaped me](https://www.notion.so/6379b986d4964818b078b0328b41f73b?v=19fc0e6483ec4fada09d6c68f7b20732), with a special recommendation to read CS101 and 科研入门(Introduction to Research).
+- [blog](https://scatyf3.vercel.app)
 
 ## Contact 
 
