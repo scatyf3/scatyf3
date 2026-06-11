@@ -1,7 +1,7 @@
 ![](asserts/banner.png)
 
 - 👋 Hi, I’m @scatyf3
-- 🎓 BSCS@BNU, Research Intern@SIT, incoming MSCE@NYU
+- 🎓 BSCS@BNU, Research Intern@SIT, MSCE@NYU
 - 👀 My research interests are in LLM/MLSYS/HPC
 - 🌈 Friendly to the underrepresented group
 
